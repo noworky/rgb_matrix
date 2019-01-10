@@ -1,4 +1,5 @@
 // A very simple bouncing pixel algorithm.
+// https://youtu.be/TnhvQCvn5aI
 // Intended as a low power demo for hub75 RGB matrices.
 // Requires 'gfx' & 'rgb matrix panel' libraries from Adafruit.
 // KB 2019
